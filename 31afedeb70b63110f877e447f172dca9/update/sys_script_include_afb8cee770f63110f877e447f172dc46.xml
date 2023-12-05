@@ -7,15 +7,8 @@
         <client_callable>false</client_callable>
         <description/>
         <name>mjscript</name>
-        <script><![CDATA[var mjscript = Class.create();
-mjscript.prototype = {
-    initialize: function() {
-    },
-
-	// ctrtcrtgh
-
-    type: 'mjscript'
-};]]></script>
+        <script><![CDATA[// var mjscript = Class.create();
+// masdmhfahgsdfjhgHKJDSG MNAVX AVMNBCX VAJ,HFD JAHFC J,BNAVMX]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-05 08:06:17</sys_created_on>
@@ -26,7 +19,7 @@ mjscript.prototype = {
         <sys_policy>read</sys_policy>
         <sys_scope display_value="mjtest2">31afedeb70b63110f877e447f172dca9</sys_scope>
         <sys_update_name>sys_script_include_afb8cee770f63110f877e447f172dc46</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-05 09:36:10</sys_updated_on>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2023-12-05 09:37:38</sys_updated_on>
     </sys_script_include>
 </record_update>
