@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4cffe52f70b63110f877e447f172dc3d" label="user info final" max_length="40" name="x_snc_mjtest2_user_info_final" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Age" max_length="40" name="age" type="glide_date"/>
+    </element>
+</database>
